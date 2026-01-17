@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <title>Mano mini svetainė</title>
+</head>
+<body id="virsus">
+<h1>Donatas</h1>
+
+<p>Labas! Mano vardas Donatas. Gyvenu Pabradėje, man 14 metų.Mokausi 8 klasėje.</p>
+<h2>Nuorodos</h2>
+<ul>
+<li><a href="https://codepen.io" target="_blank">CodePen</a></li>
+<li><a href="https://github.com" target="_blank">GitHub</a></li>
+<li><a href="#virsus">Grįžti į viršų</a></li>
+</ul>
+
+<h2>Mano nuotrauka</h2>
+<img src="https://raw.github.com/t1xeL-1/programavimas/main/Screenshot%202026-01-02%20191425.png" alt="Mano nuotrauka" width="500">
+
+<h2>Mano albumas</h2>
+<img src="https://raw.githubusercontent.com/t1xeL-1/programavimas/main/Screenshot%202026-01-02%20183119.png"
+alt="Albumo nuotrauka 1"
+width="200">
+
+
+<img src="https://raw.github.com/t1xeL-1/programavimas/main/Screenshot%202025-12-24%20142109.png"
+alt="Albumo nuotrauka 2"
+width="200">
+
+<img src="https://raw.github.com/t1xeL-1/programavimas/main/Screenshot%202025-12-31%20142154.png"
+alt="Albumo nuotrauka 3"
+width="200">
+
+<img src="https://raw.github.com/t1xeL-1/programavimas/main/Screenshot%202026-01-13%20202347.png"
+alt="Albumo nuotrauka 4"
+width="200">
+
+  
+<img src="https://raw.github.com/t1xeL-1/programavimas/main/Screenshot%202025-12-26%20224103.png"
+alt="Albumo nuotrauka 5"
+width="200">
+
+</body>
+</html>
